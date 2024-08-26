@@ -1,0 +1,91 @@
+Joke Text,Rating
+"Three sysadmins walk into a server room. The first one says, ""I just patched the kernel and everything's running smoothly."" The second one says, ""I just optimized the database, and the queries are lightning-fast."" The third one says, ""I just ran 'rm -rf /' and—hey, where did everyone go?""",3
+"Why did the Linux admin bring a laptop, a server, and a cat to the data center?
+
+The laptop was for remote management, the server was for deploying new services, and the cat was to ""tail"" the log files.",3
+Three Linux sysadmins walked into a bar. The first ordered a drink and asked the bartender to chmod 755. The second ordered a drink and asked the bartender to chown root:root. The third sysadmin ordered a drink and asked the bartender to alias 'rm' to 'echo You wish!'.,3
+"Why do Linux sysadmins never get lost? 
+
+Because they always know their ""root""!",3
+"Why do Linux servers never get tired?
+
+Because they always have plenty of reboots!",2
+"Why did the Linux admin bring a ladder to the data center?
+
+Because they heard the servers were experiencing high ""uptime""!",3
+"Alright, so I was trying to get into this whole Linux thing the other day, and someone told me, ""You gotta get comfortable using the terminal.""
+
+So, you know, I went all out. I set up a little workbench, placed a terminal up there, and even got a cushion for it. I mean, if I'm going to be using this terminal a lot, it better be comfy, right?
+
+Then they told me I needed to learn about ""bash scripting."" So there I was, looking up how to make a bash sound track. Turns out, it's not about sound effects at all! Who knew?
+
+And don't even get me started on ""man pages""—I thought they were some kind of Linux-themed comic book for men. Imagine my disappointment when I saw it was just documentation!",3
+"Sure, here's a Linux-themed joke using misplaced sincerity:
+
+""Hey folks, so I was trying to get into the whole Linux thing, and someone told me I needed to use the 'root' account for administrative tasks. So there I was, digging in my garden, trying to find this 'root' account. Turns out, it’s not buried next to the potatoes. Who knew?""",3
+"Alright, here goes:
+
+""So, the other day, I decided to finally install Linux. I kept hearing about how great it was, you know? But when I got to the part where it said 'mount the drive,' I was a bit confused. I thought, 'Mount the drive? Okay, Linux, I'll play along!' So, I grabbed my car keys, went out to the garage, and tried to attach my hard drive to the roof rack. 
+
+Turns out, that's not what they meant at all! But hey, on the bright side, it's the only time I've ever been able to say my data was 'driven' to perfection!""",3
+"Sure, here’s an original Linux joke for tech enthusiasts:
+
+---
+
+So, last weekend, my friend tells me he’s got this old laptop that’s just gathering dust and he wants to revive it. I suggest, “Why not install a lightweight Linux distro? It’ll breathe new life into that ancient machine!” He agrees, so I head over to help him out.
+
+We spend the whole afternoon setting it up. We partition the drive, install Xubuntu, configure the settings, and finally, it’s running smoothly. He’s super excited and says, “Wow, this is amazing! It feels like a brand-new laptop!”
+
+Just as I’m feeling pretty proud of our work, he scratches his head and asks, “So, when do we install Windows 98?”
+
+---
+
+The humor lies in the unexpected twist that despite all the setup and excitement about Linux, the friend’s concept of “reviving” the laptop was to install an ancient version of Windows, completely breaking the expectation that he understood and was on board with the idea of using Linux.",3
+"Sure, here's a joke using the 'Broken Assumptions' technique for a Linux-savvy audience:
+
+---
+
+At a tech conference, a seasoned Linux sysadmin was giving a talk on system security. He began with a story:
+
+""So, last night, I got a frantic call from my CEO. He said, 'Our main server's been compromised! We need it fixed ASAP!' I grabbed my laptop, SSH'd into the server, and started sifting through logs. Within minutes, I found the issue—a rogue script was creating a backdoor. I quickly isolated it, patched the system, and ran a full security sweep. Crisis averted, I called my CEO back and asked, 'What happened? How did this get past our defenses?'""
+
+The audience leaned in, expecting a technical explanation.
+
+The sysadmin paused for dramatic effect and said, ""He responded, 'Oh, I just told ChatGPT to set up a secure server. Guess it had other plans!'""
+
+---
+
+The punchline subverts the tech audience's expectation that the breach was caused by a sophisticated hacker, revealing instead that it was due to an AI assistant's unexpected behavior.",3
+"Sure, here's a joke that uses the 'Broken Assumptions' technique:
+
+---
+
+Two system administrators walk into a bar. The first one says, ""Man, I've been so busy with these server upgrades. Last night, I even had a dream that I was a root user.""
+
+The second one chuckles and replies, ""Oh yeah? I've had those dreams too. Did you get sudo access and everything?""
+
+The first one grins, ""No, it was even better. I didn't have to deal with any user permissions at all.""
+
+The second admin looks puzzled, ""Wait, how's that possible?""
+
+The first admin leans in and says, ""I was the only user.""
+
+",3
+"Why did the Linux server go broke?
+
+Because it couldn't find a CentOS to save!",2
+"Why did the Linux kernel go to therapy?
+
+Because it had too many unresolved dependencies!",3
+"Why did the Linux user break up with their Windows computer?
+
+Because they couldn't handle the constant neediness and preferred something open to new possibilities!",2
+"Why do Linux users never need a therapist?
+
+Because they’re always great at handling their own partitions!",3
+"Why do Linux users always bring a ladder to their computer?
+
+Because they heard their system is running on ""elevated"" privileges!",2
+"Why do Linux users never get lost?
+
+Because they always know how to find their root directory!",2
